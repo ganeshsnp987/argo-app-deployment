@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: nginx:latest  # Replace with your app image
+        image: ganeshsnp987/bankapp:latest  # Replace with your app image
         ports:
         - containerPort: 80
